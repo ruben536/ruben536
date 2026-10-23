@@ -7,7 +7,8 @@
 #### Un poco sobre mí:
 
 - 💻 **Actualmente cursando:** 2º de DAM en el Institut Vidal i Barraquer, en colaboración con Inetum.
-- 💼 **Experiencia:** soporte técnico en Movertis y eCommerce + catálogo PIM (Sales Layer) en AVK Válvulas.
+- 🎓 **Formación previa:** CFGM en Sistemas Microinformáticos (2023–2025, Institut Vidal i Barraquer).
+- 💼 **Experiencia:** soporte técnico en Movertis y eCommerce + catálogo PIM (Sales Layer) en AVK Válvulas, donde me contrataron tras las prácticas.
 - ✈️ **Erasmus+:** reparación de dispositivos en LEADER GSM Repairs (Orleans, Francia).
 - ⚙️ **Stack principal:** Java, COBOL, redes (LAN, DHCP, DNS) y sistemas Windows y Linux.
 - 🌍 **Idiomas:** español y catalán nativos, inglés C1.
