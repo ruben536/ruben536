@@ -8,6 +8,7 @@
 
 - 💻 **Actualmente cursando:** 2º de DAM en el Institut Vidal i Barraquer, en colaboración con Inetum.
 - 💼 **Experiencia:** soporte técnico en Movertis y eCommerce + catálogo PIM (Sales Layer) en AVK Válvulas.
+- ✈️ **Erasmus+:** reparación de dispositivos en LEADER GSM Repairs (Orleans, Francia).
 - ⚙️ **Stack principal:** Java, COBOL, redes (LAN, DHCP, DNS) y sistemas Windows y Linux.
 - 🌍 **Idiomas:** español y catalán nativos, inglés C1.
 - 🎯 **Objetivo:** seguir creciendo como desarrollador y aportar valor desde el primer día.
